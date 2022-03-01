@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home-Manuel Gonzales</title>
+</head>
+<body>
+<style>
+
+
+body {background-color: powderblue;}
+h1   {color: blue;}
+h1   {font-size:60px;}
+p    {color: red;}
+
+</style>
+</head>
+<body>
+
+	<h1 style="text-align:center;">HELLO WORLD</h1>
+<p style="text-align:center;">The unexamined life is not worth living.-Socrates</p>
+
+<p> <img src="./llama.jpg">	</p>
+
+
+</body>
+</html>

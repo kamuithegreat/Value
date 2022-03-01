@@ -1,0 +1,7 @@
+PROJECT REFLECTION
+a. What is the URL of your assignment?
+HINT: Use the URL provided ____________________________________.
+b. What issues or challenges did you face completing this project?
+c. What software programs did you use to create this project?
+d. Where did you get your images from?
+e. Include the validation information for your HTML5 and CSS validation you completed for this assignment.
